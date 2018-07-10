@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "kawageek",
+    "description": "test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "zz",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "kawatest"
+  }
+}
